@@ -39,7 +39,9 @@ cp .env.example .env
 # Add your MongoDB URI to .env
 npm run import
 npm start
+
+
 cd frontend
 npm install
 npm run dev
---
+
