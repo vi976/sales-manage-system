@@ -1,0 +1,10 @@
+﻿node_modules/
+frontend/node_modules/
+backend/node_modules/
+.env
+*.env
+output_50k.csv
+backend/output_50k.csv
+dist/
+.vscode/
+.DS_Store
